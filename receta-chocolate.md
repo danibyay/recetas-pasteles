@@ -9,3 +9,8 @@ Como hacer un pastel de chocolate
 - huevo
 - mantequilla
 - leche
+
+## Instrucciones
+
+- mezclar Harina con huevos.
+- despues con leche.
