@@ -1,0 +1,12 @@
+---
+description: "Auto-generated description for ssh_keys"
+owning_project:
+  primary: SO
+topology: stand_alone
+namespaces:
+  drt:
+    users:
+      reviewboard:
+        
+reserved_storage: '2GB'
+data_store: postgres
