@@ -14,6 +14,8 @@ Como hacer un pastel de chocolate
 
 - mezclar Harina con huevos.
 - despues con leche.
+- poner a calentar leche.
+- agregar huevo.
 
 ## Ejemplo
 
